@@ -1,0 +1,7 @@
+tensorflow>=2.13,<2.17     # Keras 2.x API; pin the exact version you used in the paper
+numpy
+scipy
+scikit-learn
+pandas
+pillow
+matplotlib
